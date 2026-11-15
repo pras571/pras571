@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pras571](https://github.com/pras571)
 
-- 💬 Ask me about **Python,Html**
+- 💬 Ask me about **Python,Html,Css,Js,React,mongo db,Nod.js,Express**
 
 - 📫 How to reach me **ggithub72@gmail.com**
 
